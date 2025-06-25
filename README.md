@@ -19,13 +19,6 @@
 
 ---
 
-## 📸 Screenshot
-
-![App Screenshot](./screenshot.png)  
-*(Add your actual UI screenshot here)*
-
----
-
 ## 🛠️ Features
 
 - 🎵 Play, pause, next, and previous track controls  
@@ -117,4 +110,4 @@ This project is for learning/demo purposes only. Not affiliated with Spotify.
 
 **Suaib Saifi**  
 📫 Connect on [LinkedIn](https://www.linkedin.com/in/suaib-saifi)  
-🌐 Portfolio: ([https://skillscape.dev](https://my-portfolio-two-phi-39.vercel.app/))
+🌐 Portfolio: https://my-portfolio-two-phi-39.vercel.app/
