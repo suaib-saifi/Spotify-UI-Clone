@@ -14,7 +14,7 @@
 
 ## 🚀 Live Demo
 
-👉 [Click here to view live](https://your-live-site.vercel.app)  
+👉 [Click here to view live]([https://your-live-site.vercel.app](https://spotify-ui-clone-theta.vercel.app/))  
 (Replace with your Vercel/Netlify deployed link)
 
 ---
@@ -39,7 +39,7 @@
 ## 🔧 Tech Stack
 
 - **Frontend**: React.js, JavaScript, CSS  
-- **Design**: Custom CSS / Tailwind (if used)
+- **Design**: Custom CSS / Tailwind
 
 ---
 
@@ -54,6 +54,7 @@ spotify-clone/
 ├── src/
 │   ├── assets/
 │   ├── components/
+│   ├── context/
 │   ├── App.jsx
 │   ├── main.jsx
 │   └── index.css
@@ -69,7 +70,7 @@ spotify-clone/
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/your-username/spotify-clone.git
+git clone https://github.com/suaib-saifi/spotify-clone.git
 cd spotify-clone
 ```
 
@@ -90,7 +91,7 @@ npm run dev
 
 ## 🌐 Deployment
 
-Deploy easily using [Vercel](https://vercel.com/) or [Netlify](https://netlify.com/):
+Deploy easily using [Vercel](https://vercel.com/)
 
 ```bash
 # For Vercel (if already installed)
@@ -115,5 +116,5 @@ This project is for learning/demo purposes only. Not affiliated with Spotify.
 ## 👤 Author
 
 **Suaib Saifi**  
-📫 Connect on [LinkedIn](https://www.linkedin.com/)  
-🌐 Portfolio: [SkillScape (coming soon)](https://skillscape.dev)
+📫 Connect on [LinkedIn](https://www.linkedin.com/in/suaib-saifi)  
+🌐 Portfolio: ([https://skillscape.dev](https://my-portfolio-two-phi-39.vercel.app/))
