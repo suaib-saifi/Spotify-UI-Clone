@@ -4,7 +4,7 @@ import { songsData } from "../assets/assets";
 
 export const PlayerContext = createContext();
 
-const PlayerContextProvider = (props) => {
+export const PlayerContextProvider = ({ children }) => {
   const audioRef = useRef();
   const seekBg = useRef();
   const seekBar = useRef();
@@ -101,9 +101,7 @@ const PlayerContextProvider = (props) => {
 
   return (
     <PlayerContext.Provider value={contextValue}>
-      {props.children}
+      {children}
     </PlayerContext.Provider>
   );
 };
-
-export default PlayerContextProvider;
